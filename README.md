@@ -79,7 +79,12 @@ npm install
 npm start
 ```
 
-
+- Criar a pasta `pages` dentro de `src`
+- Criar pages: Home, Cart, ChechOut, Shop, ProductDetails, Signup
+- Criar a pasta `routers` dentro de `src`
+- Criar a routes: `Routers.js`
+- Criar o componente `Header`
+- Criar o componente `Footer`
 
 
 
