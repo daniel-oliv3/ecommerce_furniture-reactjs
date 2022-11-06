@@ -21,7 +21,13 @@ React.js, Node.js, Redux, Toolkit, Firebase v9.
 - Site: https://code.visualstudio.com/download
 
 
-
+**Criação do projeto**
+- Criar o projeto React.js
+- Documentação: https://pt-br.reactjs.org/docs/create-a-new-react-app.html
+- Project React
+```
+npx create-react-app my-app
+```
 
 
 
