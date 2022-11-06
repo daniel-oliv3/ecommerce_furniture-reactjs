@@ -48,6 +48,31 @@ npx create-react-app my-app
     "web-vitals": "^2.1.4"
   },
 ```
+- Adicionar as dependências no arquivo `package-lock.json`
+```json
+"dependencies": {
+        "@reduxjs/toolkit": "^1.8.5",
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "bootstrap": "^5.2.1",
+        "framer-motion": "^7.3.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-redux": "^8.0.2",
+        "react-router-dom": "^6.3.0",
+        "react-scripts": "5.0.1",
+        "reactstrap": "^9.1.4",
+        "remixicon": "^2.5.0",
+        "web-vitals": "^2.1.4"
+      }
+```
+- node_modules
+
+```
+npm install
+```
+
 
 **Rodar o projeto**
 ```
