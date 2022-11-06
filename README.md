@@ -29,6 +29,11 @@ React.js, Node.js, Redux, Toolkit, Firebase v9.
 npx create-react-app my-app
 ```
 
+**Rodar o projeto**
+```
+npm start
+```
+
 
 
 
